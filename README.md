@@ -1,4 +1,2 @@
-第一本Go编程书
-===
-
+# Initial page
 
